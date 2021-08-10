@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PayPhoneUTEQ</string>
+    <string name="phoneNumber"> Phone Number </string>
+    <string name="countryCode"> Country Code </string>
+    <string name="clientUserId"> Client User Id </string>
+    <string name="reference"> Reference </string>
+    <string name="responseUrl"> Response Url </string>
+    <string name="amount"> Amount </string>
+    <string name="amountWithTax"> Amount With Tax </string>
+    <string name="amountWithoutTax"> Amount Without Tax </string>
+    <string name="tax"> Tax </string>
+    <string name="clientTransactionId"> Client Transaction Id </string>
+</resources>
