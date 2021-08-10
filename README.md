@@ -24,7 +24,7 @@ IMPLEMENTACIÓN DE LAS API REST DE LA PASARELA DE PAGO PAYPHONE
 # Captura 7 - Tarjeta en la aplicación PAYPHONE
 ![](https://github.com/jorgmoli97/PASARELA_DE_PAGO_PAYPHONE/blob/main/imagenes/tarjetaapp.jpeg)
 
-# Captura 8 - Usuario aplicación PAYPHONE
+# Captura 8 - Usuario aplicación PAYPHONE 
 ![](https://github.com/jorgmoli97/PASARELA_DE_PAGO_PAYPHONE/blob/main/imagenes/userapp.jpeg)
 
 
